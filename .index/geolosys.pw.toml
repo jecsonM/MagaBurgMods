@@ -1,0 +1,16 @@
+filename = 'Geolosys-1.20.1-7.0.14.jar'
+name = 'Geolosys'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11845c8a2c6ce0ee3529a644e9d707a3299d2dc3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6834086
+project-id = 271856

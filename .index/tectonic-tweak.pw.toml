@@ -1,0 +1,16 @@
+filename = 'tectonic_tweak-1.1.0.jar'
+name = 'Tectonic-Tweak'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'be6bad177aa86abb8252f3c563c7634797aef7b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5267676
+project-id = 973901

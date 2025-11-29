@@ -1,0 +1,16 @@
+filename = 'superbwarfare-1.20.1-0.8.7.1-6b9d8bd8a.jar'
+name = '[SBW] Superb Warfare'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e757b5b4f99463a9870efc1c213a32b9fe6321a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6982132
+project-id = 1218165

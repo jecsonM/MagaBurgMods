@@ -1,0 +1,16 @@
+filename = 'LittleTractor-1.20.1-1.2.jar'
+name = 'Little Tractor'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd9c3a86278b6f79899b862d0a7e4b4d25c92e260'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6960912
+project-id = 1029980

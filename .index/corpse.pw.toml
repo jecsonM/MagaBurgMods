@@ -1,0 +1,16 @@
+filename = 'corpse-1.20.1-1.0.9.jar'
+name = 'Corpse'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f04c3997653581e06037ccec6d79209d5c76c6c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4913871
+project-id = 316582

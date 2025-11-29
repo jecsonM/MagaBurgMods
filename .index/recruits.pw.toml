@@ -1,0 +1,16 @@
+filename = 'recruits-1.20.1-1.13.5.jar'
+name = 'Villager Recruits: Diplomacy Update!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8181069d68188a1a958bac1edb2e008fb5510718'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6646247
+project-id = 523860
